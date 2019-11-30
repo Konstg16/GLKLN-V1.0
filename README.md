@@ -18,6 +18,7 @@ One of the main concepts is that all plastic parts designed to be printed by one
 6. Almost all parts of construction made of plastic.</p>
 <p><h1>Content:</h1>
 1. Overview information file.<br/>
-2. Marlin firmware configured for this model.<br/>
-3. STL models of all plastic parts.<br/>
-4. Assembly instruction.<br/></p>
+2. Bill of Materials file.<br/>
+3. Marlin firmware configured for this model.<br/>
+4. STL models of all plastic parts.<br/>
+5. Assembly instruction.<br/></p>
