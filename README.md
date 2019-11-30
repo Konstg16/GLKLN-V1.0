@@ -6,7 +6,9 @@
 <p>The main idea of this printer is to create a new design of a 3D printer with a cubic cartesian scheme which includes as many as possible parts from plastic. I.e. it supports the RepRap concept to create some kind of easy reproducible 3d printer to make it more achievable for a wide engineer society.</br>
 One of the main concepts is that all plastic parts designed to be printed by one hotend 3d printer without using supports.</p>
 <p><h1>License:</h1></p>
-<p>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.</p>
+<p>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+</p>
 <p><h1>Main features:</h1>
 1. Cubic construction – Strong and Stable.</br>
 2. Simple construction – The hotbed Z-axes are the part of the construction.</br>
